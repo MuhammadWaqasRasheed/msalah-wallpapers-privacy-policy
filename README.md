@@ -52,6 +52,6 @@
   <h2>11. Contact Us</h2>
   <p><strong>Developer:</strong> QuestByte Labs</p>
   <p><strong>App:</strong> M.Salah Wallpapers</p>
-  <p><strong>Email:</strong> YOUR_SUPPORT_EMAIL@example.com</p>
+  <p><strong>Email:</strong> waqasdev02@gmail.com</p>
 </body>
 </html>
